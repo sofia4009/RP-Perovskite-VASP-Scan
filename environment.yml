@@ -1,0 +1,15 @@
+name: rp-perovskite-vasp-scan
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - mp-api
+      - pymatgen
+      - pandas
+      - numpy
+      - requests

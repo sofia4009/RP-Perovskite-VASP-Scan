@@ -1,0 +1,16 @@
+Data License Notice
+
+The project may use materials and metadata obtained from external scientific
+data sources, including the Materials Project.
+
+The data obtained from external sources are subject to the licenses,
+attribution requirements, and terms specified by their original providers.
+
+This repository does not redistribute proprietary VASP pseudopotentials,
+including POTCAR files.
+
+Generated calculation outputs and large datasets are not included in the
+source repository unless explicitly stated otherwise.
+
+Users are responsible for complying with the applicable terms of the
+original data providers and software packages.
