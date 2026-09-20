@@ -49,3 +49,8 @@ POTCAR
 
 # Local test data
 data_test/
+
+# HPC pipeline local configuration and working files
+config/hpc_config.sh
+work/
+*.status
